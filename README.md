@@ -3,4 +3,4 @@
 
 サンプル画像
 
-
+![こんにちはサンプル画像](konnitiwa_sample.png)
